@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HSS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="instPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\FKDL\</Value>
+    </Setting>
+    <Setting Name="DEBUG" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="PC" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="DATAS1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\FKDL\DATA_S1\</Value>
+    </Setting>
+    <Setting Name="DATAS2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\FKDL\DATA_S2\</Value>
+    </Setting>
+    <Setting Name="DATAJ1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\FKDL\DATA_J1\</Value>
+    </Setting>
+    <Setting Name="DATAJ2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\FKDL\DATA_J2\</Value>
+    </Setting>
+    <Setting Name="EXE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">EXE\</Value>
+    </Setting>
+    <Setting Name="FMT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">FMT\</Value>
+    </Setting>
+    <Setting Name="NG" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">NG\</Value>
+    </Setting>
+    <Setting Name="MDB" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MDB\</Value>
+    </Setting>
+    <Setting Name="XLS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">XLS\</Value>
+    </Setting>
+    <Setting Name="READ" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">OCRREAD\</Value>
+    </Setting>
+    <Setting Name="OK" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">OK\</Value>
+    </Setting>
+    <Setting Name="TRAY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TRAY\</Value>
+    </Setting>
+    <Setting Name="BkdelMax" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">36</Value>
+    </Setting>
+    <Setting Name="ExcelFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">勤務票シート.xls</Value>
+    </Setting>
+    <Setting Name="readPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">READ\</Value>
+    </Setting>
+    <Setting Name="SheetID1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ID1,1</Value>
+    </Setting>
+    <Setting Name="SheetID2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ID2,2</Value>
+    </Setting>
+    <Setting Name="SheetID4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ID4,4</Value>
+    </Setting>
+    <Setting Name="スタッフ用フォーマットファイル" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Staff.fmt</Value>
+    </Setting>
+    <Setting Name="パート用フォーマットファイル" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Part.fmt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
